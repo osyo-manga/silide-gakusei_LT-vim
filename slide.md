@@ -5,7 +5,7 @@
 
 ---
 
-## 自己紹介
+#### 自己紹介
 - - -
 
 * なまえ  : おしょー
@@ -13,6 +13,7 @@
 * github  : [osyo-manga](https://github.com/osyo-manga)
 * ブログ  : [Secret Garden(Instrumental)](http://secret-garden.hatenablog.com)
 * 言語    : C++ / Ruby / JavaScript（+ Vue.js + Electron）
+* [Vim Advent Calendar 2012(365日)](https://atnd.org/events/33746)    <!-- .element: class="fragment" -->
 * Vim 力（vimrc の行数）     <!-- .element: class="fragment" -->
   * 2700行（8000行）       <!-- .element: class="fragment" -->
 * 自作 Vimプラグイン数      <!-- .element: class="fragment" -->
