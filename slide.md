@@ -13,8 +13,10 @@
 * github  : [osyo-manga](https://github.com/osyo-manga)
 * ブログ  : [Secret Garden(Instrumental)](http://secret-garden.hatenablog.com)
 * 言語    : C++ / Ruby / JavaScript（+ Vue.js + Electron）
-* Vim 力（vimrc の行数）：2700行（8000行）       <!-- .element: class="fragment" -->
-* 自作 Vimプラグイン：150個ぐらい       <!-- .element: class="fragment" -->
+* Vim 力（vimrc の行数）     <!-- .element: class="fragment" -->
+  * 2700行（8000行）       <!-- .element: class="fragment" -->
+* 自作 Vimプラグイン数      <!-- .element: class="fragment" -->
+  * 150個ぐらい       <!-- .element: class="fragment" -->
 
 ---
 
