@@ -13,8 +13,8 @@
 * github  : [osyo-manga](https://github.com/osyo-manga)
 * ブログ  : [Secret Garden(Instrumental)](http://secret-garden.hatenablog.com)
 * 言語    : C++ / Ruby / JavaScript（+ Vue.js + Electron）
-* Vim 力（vimrc の行数）：2700行（8000行）
-* 自作 Vimプラグイン：150個ぐらい
+* Vim 力（vimrc の行数）：2700行（8000行）       <!-- .element: class="fragment" -->
+* 自作 Vimプラグイン：150個ぐらい       <!-- .element: class="fragment" -->
 
 ---
 
@@ -32,8 +32,8 @@
 * vi から派生した CUI ベースのテキストエディタ    <!-- .element: class="fragment" -->
   * 現在は GUI 版もある
   * Linux 系や Windows 系などマルチプラットフォーム向けに開発されている
-* 1987年頃から開発が始まり今も開発が続いている    <!-- .element: class="fragment" -->
-  * 今年で30歳なのでここにいる参加者よりも年上
+* 1987年頃から開発が始まり今も開発が続いてる    <!-- .element: class="fragment" -->
+  * 今年で30歳なので参加者よりも年上
 * 最新版は Vim 8.0.1379 パッチ   <!-- .element: class="fragment" -->
 * 最近は Neovim というクローンも登場している    <!-- .element: class="fragment" -->
 
@@ -43,12 +43,12 @@
 - - -
 
 * 開発が活発    <!-- .element: class="fragment" -->
-  * 現在でも1日平均4パッチほど取り込まれている
-* キーボードのみで操作することを前提としている  <!-- .element: class="fragment" -->
+  * 現在でも1日平均4パッチほど取り込まれてる
+* キーボードのみで操作することを前提としてる  <!-- .element: class="fragment" -->
   * マウスなどを使って操作すること殆ど無い
 * Vim にはモードという概念があり、モードを切り替えながら Vim を操作する  <!-- .element: class="fragment" -->
 * 拡張性がとても高い  <!-- .element: class="fragment" -->
-  * 好みのエディタにカスタマイズすることが出来る
+  * 好みのエディタにカスタマイズ出来る
   * 第三者が作成したプラグインもたくさんある
 
 ---
