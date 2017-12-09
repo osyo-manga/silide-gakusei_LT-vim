@@ -98,7 +98,7 @@
 
 ---
 
-## 参照リンク
+#### 参照リンク
 - - -
 
 * [vim-jp](http://vim-jp.org/)
@@ -109,6 +109,8 @@
   * 毎週誰かの vimrc を読む会
 * [いつでもどこでも :help する - Vim :help](http://vim-help-jp.herokuapp.com/#)
   * Vim のオンラインヘルプ
+* [一人 vimrc Advent Calendar 2017](https://qiita.com/advent-calendar/2017/vimrc_pink_bangbi)
+  * vimrc に関する小ネタみたいなのを書いてます
 
 ---
 
